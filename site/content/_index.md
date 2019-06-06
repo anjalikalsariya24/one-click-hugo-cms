@@ -7,18 +7,23 @@ blurb:
   text: sxbdj
 intro:
   heading: What we offer
-  text: dsfdvn
+  text: All types of clothes
 products:
   - image: /img/download.jpg
-    text: gown
+    text: |
+      Western gown with Flair backless
+      Designed By : Manish Malhotra 
+      Price : 20,000
+      Color : Multi color
   - image: /img/images-1-.jpg
-    text: gown
+    text: |-
+      Western gown with Flair backless
+      Designed By : Manish Malhotra 
+      Price : 25,000
+      Color : Blue
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Our Products Reviews
+  text: |
+    all products are so amazing
 ---
 
