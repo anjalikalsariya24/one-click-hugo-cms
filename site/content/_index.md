@@ -14,7 +14,7 @@ products:
       Western gown with Flair backless
       Designed By : Manish Malhotra 
       Price : 20,000
-      Color : Multi color
+      Color : Multi 
   - image: /img/images-1-.jpg
     text: |-
       Western gown with Flair backless
