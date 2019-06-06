@@ -4,7 +4,7 @@ subtitle: Branded clothes
 image: /img/1.jpg
 blurb:
   heading: Why this?
-  text: sxbdj
+  text: abc
 intro:
   heading: What we offer
   text: All types of clothes
