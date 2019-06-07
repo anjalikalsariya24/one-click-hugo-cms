@@ -23,6 +23,6 @@ products:
       Color : Blue
 values:
   heading: Our Products Values
-  text: all Clothes are designed by fashion designers
+  text: All Clothes are designed by fashion designers
 ---
 
