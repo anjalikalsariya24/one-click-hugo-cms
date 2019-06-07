@@ -4,7 +4,7 @@ subtitle: Branded clothes
 image: /img/1.jpg
 blurb:
   heading: Why this?
-  text: abc
+  text: Becuase our Clothe is designed by designers.
 intro:
   heading: What we offer
   text: All types of clothes
@@ -22,8 +22,7 @@ products:
       Price : 25,000
       Color : Blue
 values:
-  heading: Our Products Reviews
-  text: |
-    all products are so amazing
+  heading: Our Products Values
+  text: all Clothes are designed by fashion designers
 ---
 
