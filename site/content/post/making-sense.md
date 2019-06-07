@@ -1,5 +1,5 @@
 ---
-title: Fashion Blogger
+title: Shaily Khera Fashion Blogger
 date: 2016-12-17T15:04:10.000Z
 description: >-
   Fashion bloggers have an answer to all your questions. They’re making great
