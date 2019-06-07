@@ -9,9 +9,11 @@ values:
 
       #StyleFile: Alia, Katrina, Priyanka and other divas who shine at
       #AkuStoleTheShlo
-  - heading: Designer Gowns
+  - heading: Designer Choli
     imageUrl: /img/f2bf7-karina.jpg
     text: >-
+      Designed by manish malhotra:
+
       Salman Khan and Katrina Kaif set the ramp on fire with their dazzling
       chemistry when both of them walked together for Manish Malhotra’s Haute
       Couture 2018…
