@@ -1,5 +1,5 @@
 ---
-title: Fashion Blogger
+title: Jasleen and Sonu Fashion Blogger
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Fashion bloggers have an answer to all your questions. They’re making great
