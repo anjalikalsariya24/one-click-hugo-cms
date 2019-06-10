@@ -1,7 +1,7 @@
 ---
 title: Manish Malhotra Blog
 date: 2019-06-07T01:03:47.686Z
-description: >
+description: >-
   Fashion bloggers have an answer to all your questions. They’re making great
   use of the communication medium to spread their knowledge and share
   information with people.
